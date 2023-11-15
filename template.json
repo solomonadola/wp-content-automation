@@ -1,0 +1,945 @@
+{
+    "content": [
+        {
+            "id": "1acab0be",
+            "settings": {
+                "structure": "22",
+                "padding": {
+                    "unit": "px",
+                    "top": "175",
+                    "right": "0",
+                    "bottom": "64",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "_element_id": "home",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "reverse_order_tablet": "reverse-tablet",
+                "reverse_order_mobile": "reverse-mobile"
+            },
+            "elements": [
+                {
+                    "id": "54e7ed52",
+                    "settings": {
+                        "_column_size": 66,
+                        "_inline_size": 58.33333333,
+                        "content_position": "center",
+                        "_inline_size_tablet": 100,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "630410ad",
+                            "settings": {
+                                "sub_title": "Welcome to my world",
+                                "about_title": "Hi, I'm ",
+                                "name": "Akintunde Okuboyejo",
+                                "about_title2": "Production Geologist",
+                                "content": "I am a production geologist and geomodeller with a strong focus on technical excellence, attention to detail, and value creation. With over 10 years of experience in the oil and gas industry, I have honed my skills in sub-surface geo-modeling, integrated reservoir studies, field development planning, and operations geology. My track record includes successfully interpreting some of the largest and most complex Nigerian fields. Backed by solid credentials (BSc Geology, MSc Pet. Geoscience) and proficiency in industry-standard geo-modeling tools, I am committed to delivering exceptional results and have been recognized with special awards for my technical excellence and value creation. As the Young Professional Lead for the Africa Region in the AAPG, I stay actively engaged in professional development and industry advancements.",
+                                "detail_txt": "CONTACT ME",
+                                "designation": "Web designer & developer",
+                                "email": "john.slady@gmail.coms",
+                                "address": "Paris fan",
+                                "cd_option_list": [
+                                    {
+                                        "title": "Developer.",
+                                        "_id": "5db9641"
+                                    },
+                                    {
+                                        "title": "Professional Coder.",
+                                        "_id": "a9b30dd"
+                                    },
+                                    {
+                                        "title": "Developer.",
+                                        "_id": "58ce5d2"
+                                    }
+                                ],
+                                "style": "2",
+                                "subtitle_font_size_typography": "custom",
+                                "subtitle_font_size_line_height_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "subtitle_font_size_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "rainbow-about-me",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5078a864",
+                            "settings": {
+                                "gap": "no",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "90",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "805a1ea",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "55bde2ca",
+                                            "settings": {
+                                                "title": "Let's Connect",
+                                                "has_Shadow": "yes",
+                                                "sc_option_list": [
+                                                    {
+                                                        "title": "facebook.",
+                                                        "_id": "21e32b4",
+                                                        "url": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        }
+                                                    },
+                                                    {
+                                                        "title": "twitter",
+                                                        "quick": "feather-twitter",
+                                                        "_id": "f10e6b3",
+                                                        "icon": {
+                                                            "value": "rbt feather-twitter",
+                                                            "library": "rbt-feather-icons"
+                                                        },
+                                                        "url": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        }
+                                                    },
+                                                    {
+                                                        "title": "linkedin.",
+                                                        "quick": "feather-linkedin",
+                                                        "_id": "2ef5ccf",
+                                                        "icon": {
+                                                            "value": "rbt feather-linkedin",
+                                                            "library": "rbt-feather-icons"
+                                                        },
+                                                        "url": {
+                                                            "url": "https://www.linkedin.com/in/akintunde-okuboyejo-6a805722//",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "rainbow-social-share",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "554845b1",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 40.998,
+                        "_inline_size_tablet": 100,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "3f6736d1",
+                            "settings": {
+                                "image": {
+                                    "url": "https://akpovineotughwor.starmetaversegeorgia.com/wp-content/uploads/2023/11/profile-pic.png",
+                                    "id": 4779,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "3aa93fe3",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "550f64bb",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "71a39304",
+                            "settings": {
+                                "text": "Divider",
+                                "color": "#121415"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "554d9c0e",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "66",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "_element_id": "features"
+            },
+            "elements": [
+                {
+                    "id": "23c18e40",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "space_between_widgets": 0
+                    },
+                    "elements": [
+                        {
+                            "id": "32e95505",
+                            "settings": {
+                                "sub_title": "Features",
+                                "title": "What I Do\n",
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "_padding_mobile": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "rainbow-title",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6c00f0d6",
+                            "settings": {
+                                "services_list": [
+                                    {
+                                        "title": "Planning Integration Lead",
+                                        "sub_title": "I lead strategic planning and integration efforts, ensuring alignment with business objectives.",
+                                        "url": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "f0d8163",
+                                        "icon": {
+                                            "value": {
+                                                "url": "https://akpovineotughwor.starmetaversegeorgia.com/wp-content/uploads/2022/05/align-justify1.svg",
+                                                "id": 1887
+                                            },
+                                            "library": "svg"
+                                        }
+                                    },
+                                    {
+                                        "title": "Reservoir Engineering",
+                                        "sub_title": "I apply my reservoir engineering expertise to analyze and interpret subsurface data, contributing to robust resource estimates.",
+                                        "url": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "edf2f94",
+                                        "icon": {
+                                            "value": {
+                                                "url": "https://akpovineotughwor.starmetaversegeorgia.com/wp-content/uploads/2022/05/book-open.svg",
+                                                "id": 1889
+                                            },
+                                            "library": "svg"
+                                        }
+                                    },
+                                    {
+                                        "title": "Strategic Planning",
+                                        "sub_title": "I lead strategic planning efforts, ensuring alignment with business objectives and contributing to the success of projects.",
+                                        "url": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "06e011a",
+                                        "icon": {
+                                            "value": {
+                                                "url": "https://akpovineotughwor.starmetaversegeorgia.com/wp-content/uploads/2022/05/tv.svg",
+                                                "id": 1890
+                                            },
+                                            "library": "svg"
+                                        }
+                                    },
+                                    {
+                                        "title": "Risk Assessment",
+                                        "sub_title": "I conduct comprehensive risk assessments, contributing to robust and reasonable resource estimates.",
+                                        "url": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "icon": {
+                                            "value": {
+                                                "url": "https://akpovineotughwor.starmetaversegeorgia.com/wp-content/uploads/2022/05/smartphone.svg",
+                                                "id": 1892
+                                            },
+                                            "library": "svg"
+                                        },
+                                        "_id": "7e7065b"
+                                    },
+                                    {
+                                        "title": "Project Management",
+                                        "sub_title": "I collaborate with cross-functional teams, managing projects to deliver reliable solutions and achieve business goals.",
+                                        "url": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "icon": {
+                                            "value": {
+                                                "url": "https://akpovineotughwor.starmetaversegeorgia.com/wp-content/uploads/2022/05/database.svg",
+                                                "id": 1891
+                                            },
+                                            "library": "svg"
+                                        },
+                                        "_id": "a21d37f"
+                                    }
+                                ],
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "rainbow-services-repeater",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "68eb56c4",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "58b084cb",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "7e18a77b",
+                            "settings": {
+                                "text": "Divider",
+                                "color": "#121415"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "28a635ef",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "69168a32",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "527d211b",
+                            "settings": {
+                                "text": "Divider",
+                                "color": "#121415"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6e3a883f",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "64",
+                    "right": "0",
+                    "bottom": "56",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "_element_id": "resume"
+            },
+            "elements": [
+                {
+                    "id": "60e40dd2",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "space_between_widgets": 40
+                    },
+                    "elements": [
+                        {
+                            "id": "78b82465",
+                            "settings": {
+                                "sub_title": "13+ Years of Experience",
+                                "title": "My Resume\n",
+                                "title_align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "rainbow-title",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "720eae07",
+                            "settings": {
+                                "library_tab_items": [
+                                    {
+                                        "tab_nav": "education",
+                                        "_id": "56cc8bc",
+                                        "recommended_on": "yes",
+                                        "library_tab_library": "76"
+                                    },
+                                    {
+                                        "tab_nav": "Experience",
+                                        "recommended_on": "",
+                                        "library_tab_library": "4868",
+                                        "_id": "2150e15"
+                                    },
+                                    {
+                                        "tab_nav": "Professional Skills",
+                                        "recommended_on": "",
+                                        "library_tab_library": "83",
+                                        "_id": "dce9405"
+                                    },
+                                    {
+                                        "tab_nav": "endorsement",
+                                        "recommended_on": "",
+                                        "library_tab_library": "4862",
+                                        "_id": "285122b"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "rb-library-resume-tab",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5f2d2512",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "519975e0",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "e1e8078",
+                            "settings": {
+                                "text": "Divider",
+                                "color": "#121415"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "69646742",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "539ea968",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "6d798481",
+                            "settings": {
+                                "text": "Divider",
+                                "color": "#121415"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "7fdf0498",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "5bff3ef6",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "4e56b5e0",
+                            "settings": {
+                                "text": "Divider",
+                                "color": "#121415"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5a20f8f3",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "_element_id": "blog"
+            },
+            "elements": [
+                {
+                    "id": "7dc22700",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "616a62cd",
+                            "settings": {
+                                "sub_title": "Visit my blog",
+                                "title": "My Blog\n",
+                                "title_align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "rainbow-title",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5954677c",
+                            "settings": {
+                                "content_display": "",
+                                "order": "desc"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "rainbow-post-grid",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2ee67cd2",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "25c8cc41",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "2df5fba0",
+                            "settings": {
+                                "text": "Divider",
+                                "color": "#121415"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5ed58887",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "74",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "_element_id": "contacts"
+            },
+            "elements": [
+                {
+                    "id": "27c2fcf4",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "space_between_widgets": 40
+                    },
+                    "elements": [
+                        {
+                            "id": "2d563289",
+                            "settings": {
+                                "sub_title": "Contact",
+                                "title": "Let's Connect\n",
+                                "title_align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "rainbow-title",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5f6665e2",
+                            "settings": {
+                                "gap": "wide",
+                                "structure": "20",
+                                "padding": {
+                                    "unit": "rem",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "237866a6",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 35.007,
+                                        "padding": {
+                                            "unit": "rem",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "rem",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "rem",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "_inline_size_tablet": 100
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1410246e",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https://akpovineotughwor.starmetaversegeorgia.com/wp-content/uploads/2021/08/contact1.png",
+                                                    "id": 145,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "title": "Akpovine Otughwor, SPEC ",
+                                                "sub_title": "Business Plan Integration Lead at Shell Petroleum Development Company",
+                                                "content": "I am always open to discussing new opportunities and providing consultation in my areas of expertise. Please feel free to contact me.",
+                                                "phone_lable": "",
+                                                "phone": "",
+                                                "email_lable": "",
+                                                "email": "",
+                                                "soc_title": "Let's Connect",
+                                                "sc_option_list": [
+                                                    {
+                                                        "stitle": "facebook.",
+                                                        "_id": "ecedd66",
+                                                        "icontype": "icon",
+                                                        "icon": {
+                                                            "value": "rbt feather-twitter",
+                                                            "library": "rbt-feather-icons"
+                                                        }
+                                                    },
+                                                    {
+                                                        "stitle": "twitter",
+                                                        "quick": "feather-twitter",
+                                                        "_id": "ac62689",
+                                                        "icontype": "icon",
+                                                        "icon": {
+                                                            "value": "rbt feather-facebook",
+                                                            "library": "rbt-feather-icons"
+                                                        }
+                                                    },
+                                                    {
+                                                        "stitle": "linkedin.",
+                                                        "quick": "feather-linkedin",
+                                                        "_id": "f1d0fc0",
+                                                        "icontype": "icon",
+                                                        "icon": {
+                                                            "value": "rbt feather-linkedin",
+                                                            "library": "rbt-feather-icons"
+                                                        },
+                                                        "url": {
+                                                            "url": "https://www.linkedin.com/in/akintunde-okuboyejo-6a805722//",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "rainbow-contact-info",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5261a0e7",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 64.954,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "30",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_tablet": 100,
+                                        "padding_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7ec7fa3e",
+                                            "settings": {
+                                                "shortcode": "[contact-form-7 id=\"6\" title=\"Contact form 1\"]"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "shortcode",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "new-landingpage",
+    "type": "page"
+}
