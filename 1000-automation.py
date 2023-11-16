@@ -8,7 +8,15 @@ def load_json(file_path):
 def save_json(file_path, data):
     with open(file_path, 'w') as file:
         json.dump(data, file, indent=2)
-
+        
+def extract_content(lines):
+    try:
+        about_me_index = lines.index('About Me:\n') + 1
+        what_i_do_index = lines.index('What I Do:\n')
+        return ''.join(lines[about_me_index:what_i_do_index]).strip()
+    except ValueError:
+        return ''
+    
 def modify_json(template_json, name, about_title2, content, username, service_lines):
     modified_json = template_json.copy()
 
@@ -67,14 +75,13 @@ def main():
                 lines = txt_file.readlines()
                 name = lines[0].strip()
                 about_title2 = lines[1].strip()
-                content_start = lines.index('About Me:\n') + 1
                 content_end = lines.index('What I Do:\n') if 'What I Do:\n' in lines else len(lines)
-                content = ''.join(lines[content_start:content_end]).strip()
+                content = extract_content(lines)
                 username = lines[-1].strip()
-
+                
+                print(content)
                 # Extract lines after "What I Do:" for services_list
                 service_lines = lines[content_end + 1:-2]
-                print(service_lines)
 
             # Modify the JSON
             modified_json = modify_json(template_json, name, about_title2, content, username, service_lines)
